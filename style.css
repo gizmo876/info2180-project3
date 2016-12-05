@@ -1,0 +1,59 @@
+body {
+  
+    background-image: url("http://il8.picdn.net/shutterstock/videos/3968098/thumb/1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-size: cover;
+    margin: 100px 150px 100px 80px;
+    text-align: center;
+    
+
+}
+
+h1 {
+    font-size: 45px;
+    color: 	#12a12a;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: s Tahoma;
+}
+h3 {
+    font-size: 20px;
+    color: 	#11a11a;
+    letter-spacing: 0.2px;
+    text-align: center;
+    font-family: s Tahoma;
+}
+    
+    
+label{
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.login_uname,.login_pword {
+    width: 30%;
+    border:2px solid #456879;
+	border-radius:10px;
+	height: 22px;
+	
+}  
+.forget{
+    text-align: left;
+}
+
+.forgot{
+    text-align: left;
+    text-decoration: none;
+}
+
+button {
+    background-color: #a1a1a1;
+    width: 10%;
+    border:2px solid #000000;
+	border-radius:10px;
+	height: 22px;
+	position: fixed;
+}
